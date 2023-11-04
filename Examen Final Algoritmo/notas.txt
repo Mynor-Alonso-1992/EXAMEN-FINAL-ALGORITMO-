@@ -1,0 +1,6 @@
+Nombre del estudiante: Mynor Ebenezer Alonso Miranda
+Notas: 90.0, 80.0, 90.0, 70.0
+Nombre del estudiante: Mynor Ebenezer Alonso Miranda
+Notas: 90.0, 80.0, 70.0, 60.0
+Promedio: 75.0
+
